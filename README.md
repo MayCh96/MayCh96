@@ -1,8 +1,2 @@
-### Hi there 👋
 
-
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning with the help of docs.github.com
-- 💬 Ask me about github
-- 😄 Pronouns: .may
--->
+[Coding_di_gruppo.zip](https://github.com/MayCh96/MayCh96/files/8936223/Coding_di_gruppo.zip)
